@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mern Stack Website**
 
-- 👨‍💻 All of my projects are available at [iampdt.netlify.app](iampdt.netlify.app)
+- 👨‍💻 All of my projects are available at https://iampdt.netlify.app
 
 - 💬 Ask me about **React,Web3,AI,Blockcahin**
 
