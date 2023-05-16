@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://iampdt.netlify.app
 
-- 💬 Ask me about **React,Web3,AI,Blockcahin**
+- 💬 Ask me about **React,Web3,AI,Blockcahin.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iampdt/**
 
