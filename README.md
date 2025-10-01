@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Dev Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Mern Stack Website**
+- 🔭 I’m currently working as Full-Stack Software Developer at DSP Asset Managers
 
 - 👨‍💻 All of my projects are available at https://iampdt.netlify.app
 
