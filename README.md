@@ -67,14 +67,5 @@
 
 ---
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iampdt/iampdt/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iampdt/iampdt/output/snake-light.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/iampdt/iampdt/output/snake-dark.svg" />
-</picture>
-
----
-
 ### ⚡ Fun Fact
 _"The best way to learn is to build. The best way to grow is to share."_ 🚀
