@@ -1,55 +1,80 @@
-<h1 align="center">Hi 👋, I'm Paras Dev Tyagi</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Paras%20Dev%20Tyagi&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=60&descAlign=62" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Full-Stack+Developer;Backend+%26+API+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iampdt&color=00C4FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 ---
 
 ### 🚀 About Me
-- 💻 I enjoy building **scalable backends, APIs, and full-stack apps**.  
-- 🧠 Experienced in **Python, Java, FastAPI, Django, Spring Boot, React**.  
-- 🏆 Strong background in **competitive programming & problem-solving**.  
-- 📍 Based in **Bangalore, India**.  
-- 🌱 Currently exploring **system design & high-performance APIs**.  
+
+- 💻 I build **scalable backends, high-performance APIs, and dynamic full-stack applications**.
+- ⚙️ Passionate about **performance optimization** across the full technology stack, ensuring lightning-fast backend responses and seamless frontend rendering.
+- 🧠 Deeply committed to **algorithmic problem-solving** and mastering complex DSA patterns using **C++**.
+- 🏆 Experienced in **Python, Java, FastAPI, Django, Spring Boot, and React**.
+- 📈 Constantly refining my skills in **system design** and large-scale architectures.
+- 📍 Based in **Bengaluru, India**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-</p>
-
-**Frameworks & Tools**  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center"><b>Backend & Frameworks</b></td>
+      <td align="center"><b>Frontend & Databases</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" /><br>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express" /><br>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mysql" /><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampdt&theme=tokyonight&hide_border=true" height="170" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iampdt/iampdt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iampdt/iampdt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iampdt/iampdt/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 ### 🔗 Connect With Me
+
 <div align="center">
   <a href="mailto:parasdevtyagi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -65,7 +90,7 @@
   </a>
 </div>
 
----
-
-### ⚡ Fun Fact
-_"The best way to learn is to build. The best way to grow is to share."_ 🚀
+<p align="center">
+  <br>
+  <i>"The best way to learn is to build. The best way to grow is to share."</i> 🚀
+</p>
