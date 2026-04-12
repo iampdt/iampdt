@@ -60,17 +60,15 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampdt&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampdt&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" height="195" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Languages" />
 </div>
-
----
 
 ### 🐍 Contribution Activity
 
