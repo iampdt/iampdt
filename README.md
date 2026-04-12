@@ -60,22 +60,16 @@
 ### 📈 Coding & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampdt&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iampdt&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=2" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampdt&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=2" height="195" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampdt&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=2" height="195" alt="Top Languages" />
   
-  <img src="https://leetcard.jacoblin.cool/Paras_dev?theme=radical&amp;font=Fira%20Code&amp;ext=activity&amp;hide_border=true" height="195" alt="LeetCode Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" alt="WakaTime Stats" />
+  <img src="https://leetcard.jacoblin.cool/iampdt1?theme=radical&amp;font=Fira%20Code&amp;ext=activity&amp;hide_border=true" height="195" alt="LeetCode Stats"/>
 </div>
 
 ### 🐍 Contribution Activity
