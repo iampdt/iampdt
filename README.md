@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="150">
   <h1>Hi there, I'm Paras Dev Tyagi 👋</h1>
   <h3>Software Engineer | Full-Stack Developer | Performance Optimizer</h3>
   
