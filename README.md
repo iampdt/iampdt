@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Mastering+Backend+Engineering;Optimizing+full-stack+performance;Building+high-performance+APIs;Designing+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Mastering+Backend;Optimizing+full-stack+performance;Building+high-performance+APIs;Designing+scalable+systems" alt="Typing SVG" />
 </div>
 
 ---
